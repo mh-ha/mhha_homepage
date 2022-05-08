@@ -22,16 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral Research Associate
+    company: Center for Neuroscience-inspired AI @ KAIST
+    company_url: 'cnai.kaist.ac.kr'
+    company_logo: org-gc
+    location: Daejeon
+    date_start: '2019-11-16'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        * Analysing
+        * Modelling
+        * Deploying
+
   - title: Certified Investment Manager
     company: Optus Investment
     company_url: 'http://www.optus.co.kr/'
     company_logo: org-gc
     location: Seoul
     date_start: '2011-05-16'
-    date_end: '2019-10-31'
+    date_end: '2019-11-15'
     description: |2-
         Responsibilities include:
-
         * Analysing
         * Modelling
         * Deploying
