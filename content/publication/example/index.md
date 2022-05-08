@@ -1,23 +1,27 @@
 ---
-title: 'An example conference paper'
+title: 'InfoGCN: Representation Learning for Human Skeleton-based Action Recognition'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Hyung-gun Chi
+  - Seunggeun Chi
+  - Sang Wan Lee
+  - Qixing Huang
+  - Karthik Ramani
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2022-06-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-06-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,10 +30,17 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*
+publication_short: In *CVPR*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:
+Human skeleton-based action recognition offers a valuable means to understand the intricacies of human behavior because it can handle the complex relationships between physical constraints and intention.
+Although several studies have focused on encoding a skeleton, less attention has been paid to embed this information into the latent representations of human action.
+InfoGCN proposes a learning framework for action recognition combining a novel learning objective and an encoding method.
+First, we design an information bottleneck-based learning objective to guide the model to learn informative but compact latent representations.
+To provide discriminative information for classifying action, we introduce attention-based graph convolution that captures the context-dependent intrinsic topology of human action.
+In addition, we present a multi-modal representation of the skeleton using the relative position of joints, designed to provide complementary spatial information for joints.
+InfoGCN\footnote{Code is available at \url{github.com/stnoah1/infogcn}} surpasses the known state-of-the-art on multiple skeleton-based action recognition benchmarks with the accuracy of 93.0\% on NTU RGB+D 60 cross-subject split, 89.8\% on NTU RGB+D 120 cross-subject split, and 97.0\% on NW-UCLA.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -45,7 +56,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/stnoah1/infogcn'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -56,7 +67,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  capntion: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 
