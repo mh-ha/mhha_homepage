@@ -29,9 +29,9 @@ item:
     date_end: ''
     date_start: '2011-03-01'
     description: ''
-    organization: KOFIA
+    organization: Korea Financial Investment Association (KOFIA)
     organization_url: https://www.kofia.or.kr/index.do
-    title: Certified Investment Manager Korea Financial Investment Association, 2011
+    title: Certified Investment Manager
     url: ''
 
 

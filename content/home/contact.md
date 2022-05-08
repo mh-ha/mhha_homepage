@@ -2,6 +2,8 @@
 # An instance of the Contact widget.
 widget: contact
 
+active: false
+
 # This file represents a page section.
 headless: true
 
@@ -25,8 +27,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: mh.ha.soar@gmail.com
+  phone: +82 10 2059 1436
   address:
     street: 450 Serra Mall
     city: Stanford
