@@ -33,8 +33,7 @@ publication_types: ['1']
 publication: In *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*
 publication_short: In *CVPR*
 
-abstract:
-Human skeleton-based action recognition offers a valuable means to understand the intricacies of human behavior because it can handle the complex relationships between physical constraints and intention.
+abstract: Human skeleton-based action recognition offers a valuable means to understand the intricacies of human behavior because it can handle the complex relationships between physical constraints and intention.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
