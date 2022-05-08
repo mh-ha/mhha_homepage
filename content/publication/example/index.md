@@ -35,7 +35,6 @@ publication_short: In *CVPR*
 
 abstract:
 Human skeleton-based action recognition offers a valuable means to understand the intricacies of human behavior because it can handle the complex relationships between physical constraints and intention.
-Although several studies have focused on encoding a skeleton, less attention has been paid to embed this information into the latent representations of human action.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
