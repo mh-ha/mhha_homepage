@@ -4,13 +4,13 @@ title: 'InfoGCN: Representation Learning for Human Skeleton-based Action Recogni
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
-  - admin
-  - Hyung-gun Chi
-  - Seunggeun Chi
-  - Sang Wan Lee
-  - Qixing Huang
-  - Karthik Ramani
+authors: [admin, "Hyung-gun Chi", "Seunggeun Chi", "Sang Wan Lee", "Qixing Huang", "Karthik Ramani"]
+#  - admin
+#  - Hyung-gun Chi
+#  - Seunggeun Chi
+#  - Sang Wan Lee
+#  - Qixing Huang
+#  - Karthik Ramani
 
 # Author notes (optional)
 author_notes:
