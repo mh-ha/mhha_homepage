@@ -2,20 +2,18 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-
 active: true
-
 # This file represents a page section.
 headless: true
-
 # Order that this section appears on the page.
 weight: 25
 
-title: Publications
+title: 'Publications'
 subtitle: ''
 
 content:
   # Filter on criteria
+  page_type: 'publication'
   filters:
     folders:
       - publication
@@ -34,7 +32,7 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  view: compact
   columns: '2'
 ---
 
