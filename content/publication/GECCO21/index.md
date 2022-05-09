@@ -6,21 +6,18 @@ title: 'InfoGCN: Representation Learning for Human Skeleton-based Action Recogni
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Hyung-gun Chi
-  - Seunggeun Chi
-  - Sang Wan Lee
-  - Qixing Huang
-  - Karthik Ramani
+  - Seung-geun Chi
+  - Sangyeop Lee
+  - Yujin Cha
+  - Byung-Ro Moon
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
 
-date: '2022-03-01T00:00:00Z'
+date: '2021-03-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-03-01T00:00:00Z'
+publishDate: '2021-03-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,13 +26,13 @@ publishDate: '2022-03-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
-publication_short: "CVPR22"
+publication: "the Genetic and Evolutionary Computation Conference (GECCO)"
+publication_short: "GECCO 2021"
 
-abstract: "Human skeleton-based action recognition offers a valuable means to understand the intricacies of human behavior because it can handle the complex relationships between physical constraints and intention. Although several studies have focused on encoding a skeleton, less attention has been paid to incorporating this information into the latent representations of human action. This work proposes a learning framework for action recognition, InfoGCN, combining a novel learning objective and encoding method. First, we design an information bottleneck-based learning objective to guide the model to learn an informative but compact latent representation. To provide discriminative information for classifying action, we introduce attention-based graph convolution that captures the context-dependent intrinsic topology of human actions. In addition, we present a multi-modal representation of the skeleton using the relative position of joints, designed to provide complementary spatial information for joints. InfoGCN surpasses the known state-of-the-art on multiple skeleton-based action recognition benchmarks with the accuracy of 93.0% on NTU RGB+D 60 cross-subject split, 89.8% on NTU RGB+D 120 cross-subject split, and 97.0% on NW-UCLA."
+abstract: "Portfolio optimization is a control problem to find the optimal strategy for the process of selecting the proportions of assets that can provide the maximum return. Conventional approaches formulate the problem as a stationary Markov decision process and apply reinforcement learning methods to provide solutions. However, it is well-known that the financial markets are non-stationary processes which can lead to violations of this assumption in these methods. In this work, we reformulate the portfolio optimization problem to deal with the non-stationary nature of the financial markets. In our approach, we divide a non-stationary process into multiple short-term stationary processes and consider the portfolio optimization problem as a multitask control problem. We propose an evolutionary meta reinforcement learning approach to search for an initial policy that can quickly adapt to the upcoming target tasks. We model the policies as convolutional networks that can score the match of the patterns in charts of the market data. We test our approach on real-world cryptographic currency data and show that it adapts well to the changes in the market and leads to better profitability."
 
 # Summary. An optional shortened abstract.
-summary: "In proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022"
+summary: "In proceedings of the Genetic and Evolutionary Computation Conference (GECCO), 2021"
 
 tags: []
 categories: []
@@ -48,7 +45,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/stnoah1/infogcn'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -69,7 +66,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - infogcn
+  - ''
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
