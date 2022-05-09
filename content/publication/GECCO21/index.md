@@ -1,5 +1,5 @@
 ---
-title: 'InfoGCN: Representation Learning for Human Skeleton-based Action Recognition'
+title: 'Evolutionary meta reinforcement learning for portfolio optimization'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
