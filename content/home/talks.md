@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -11,14 +11,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Recent & Upcoming Talks'
+title: 'Invited Talks'
 subtitle:
 
 content:
   # Page type to display. E.g. post, event, publication...
   page_type: event
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 0
   # Filter on criteria
   filters:
     author: ''
