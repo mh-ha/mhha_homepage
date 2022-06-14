@@ -14,11 +14,12 @@ organizations:
     url: https://www.kaist.ac.kr/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, deep learning and adversarial robustness.
+bio: My research interests include deep learning, reinforcement learning, representation learning, and adversarial robustness.
 
 # Interests to show in About widget
 interests:
   - Deep Learning
+  - Reinforcement Learning
   - Representation Learning
   - Adversarial Robustness
 
@@ -67,6 +68,7 @@ email: 'mh.ha.soar@gmail.com'
 highlight_name: true
 ---
 
-Myounghoon Ha is a postdoctoral research associate at Center for Neuroscience-inspired AI @ KAIST. His research interests include ,  and . He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Myounghoon Ha is a postdoctoral research associate at Center for Neuroscience-inspired AI @ KAIST. His research interests include deep learning, reinforcement learning, representation learning, and adversarial robustness.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
