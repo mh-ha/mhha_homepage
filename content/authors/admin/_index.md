@@ -72,4 +72,4 @@ highlight_name: true
 Myounghoon Ha is a postdoctoral researcher at Center for Neuroscience-inspired Artificial Intelligence (CNAI) @ KAIST. His research interests include deep learning, reinforcement learning, representation learning, and adversarial robustness.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_mhha.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my
