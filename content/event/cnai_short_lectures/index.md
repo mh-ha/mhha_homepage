@@ -1,8 +1,8 @@
 ---
-title: NLP + RL
+title: Introduction to [NLP + RL]
 
-event: CNAI Short Lecture Series
-event_url: https://example.org
+event: CNAI Lecture Series
+event_url: https://kaist.zoom.us/j/6284808221
 
 location: Online (Zoom)
 # address:
@@ -12,33 +12,34 @@ location: Online (Zoom)
 #  postcode: '94305'
 #  country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Introduction to [NLP + RL]
+abstract: 'This lecture is opened for sharing the background knowledge required to carry out the KAIST-KT collaborative research project [Genie Brain]. In this lecture, we will learn the basics of reinforcement learning and the recent research trends on the methods of natural language processing using reinforcement learning.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-05-19T13:00:00Z'
-date_end: '2022-05-19T15:00:00Z'
+date: '2022-08-17T13:00:00Z'
+date_end: '2022-09-28T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-05-09T00:00:00Z'
+publishDate: '2022-08-17T00:00:00Z'
 
 authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: ''
-  focal_point: Right
+  focal_point: ''
+  preview_only: false
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    #- icon: twitter
+    # icon_pack: fab
+    # name: Follow
+    # url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -60,14 +61,3 @@ projects:
   - ''
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.

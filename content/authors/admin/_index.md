@@ -16,14 +16,13 @@ organizations:
     url: https://www.kaist.ac.kr/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning, reinforcement learning, representation learning, and adversarial robustness.
+bio: My research interests are investigating human intelligence through machine-based emulation. In detail, my research primarily focuses on two areas':' human-like uncertainty modeling and adversarial robustness in machine learning systems.
 
 # Interests to show in About widget
 interests:
-  - Deep Learning
-  - Reinforcement Learning
-  - Representation Learning
+  - Human-like Uncertainty Modeling
   - Adversarial Robustness
+  - Representation Learning
 
 # Education to show in About widget
 education:
@@ -69,7 +68,8 @@ email: 'mh.ha.soar@gmail.com'
 highlight_name: true
 ---
 
-Myounghoon Ha is a postdoctoral researcher at Center for Neuroscience-inspired Artificial Intelligence (CNAI) @ KAIST. His research interests include deep learning, reinforcement learning, representation learning, and adversarial robustness.
+Myounghoon Ha is a postdoctoral researcher at Center for Neuroscience-inspired Artificial Intelligence (CNAI) @ KAIST. His research interests include human-like uncertainty modeling and adversarial robustness in machine learning systems.
+
 
 
 {{< icon name="download" pack="fas" >}} Download my
