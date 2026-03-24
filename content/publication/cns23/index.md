@@ -11,11 +11,11 @@ authors:
 
 # Author notes (optional)
 
-date: '2022-07-01T00:00:00Z'
+date: '2023-07-15T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-06-01T00:00:00Z'
+publishDate: '2023-07-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,8 +25,8 @@ publication_types: ['1']
 
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the 31st Annual Computational Neuroscience Meeting (CNS)"
-publication_short: "CNS 2022"
+publication: "Proceedings of the 32nd Annual Computational Neuroscience Meeting (CNS)"
+publication_short: "CNS 2023"
 
 abstract: "Our perception of the external world is always limited and ambiguous, and the activities of sensory neurons are inherently noisy. Such exogenous and endogenous uncertainty factors pose a fundamental challenge for sensory coding. Despite the earlier studies for understanding how biological vision resolves these issues, little is known about how it can learn accurate and generalizable representations.
 
@@ -38,7 +38,7 @@ Simulations with three real-world benchmark datasets revealed that our models ou
 "
 
 # Summary. An optional shortened abstract.
-summary: "In proceedings of the 31st Annual Computational Neuroscience Meeting (CNS), 2022"
+summary: "In proceedings of the 32nd Annual Computational Neuroscience Meeting (CNS), 2023"
 
 tags: []
 categories: []

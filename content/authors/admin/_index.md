@@ -16,13 +16,15 @@ organizations:
     url: https://www.kaist.ac.kr/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are investigating human intelligence through machine-based emulation. In detail, my research primarily focuses on two areas':' human-like uncertainty modeling and adversarial robustness in machine learning systems.
+bio: My research focuses on building neuroscience-inspired AI models that learn and adapt like biological neural circuits, with a current emphasis on deep predictive coding networks and temporal sequence modeling.
 
 # Interests to show in About widget
 interests:
-  - Human-like Uncertainty Modeling
-  - Adversarial Robustness
-  - Representation Learning
+  - Predictive Coding
+  - Temporal Sequence Modeling
+  - Neuroscience-inspired AI
+  - Neural and Behavioral Modeling
+  - Interpretability
 
 # Education to show in About widget
 education:
@@ -30,7 +32,7 @@ education:
     - course: PhD in Electrical Engineering and Computer Science
       institution: Seoul National University
       year: 2019
-    - course: BSc in Information and Computer Science
+    - course: BSc in Information and Computer Science (Minor in Mathematics, summa cum laude)
       institution: Ajou University
       year: 2010
 
@@ -68,8 +70,6 @@ email: 'mh.ha.soar@gmail.com'
 highlight_name: true
 ---
 
-Myounghoon Ha is a postdoctoral researcher at Center for Neuroscience-inspired Artificial Intelligence (CNAI) @ KAIST. His research interests include human-like uncertainty modeling and adversarial robustness in machine learning systems.
-
-
+Myounghoon Ha is a postdoctoral researcher at the Center for Neuroscience-inspired Artificial Intelligence (CNAI) at KAIST, working with Prof. Sang Wan Lee. His research focuses on building neuroscience-inspired AI models that learn and adapt like biological neural circuits. His recent work on Meta-PCN (ICLR 2026) addresses training pathologies in deep predictive coding networks through meta-prediction-error objectives. He also works on temporal sequence modeling, neural and behavioral modeling, and interpretability.
 
 {{< icon name="download" pack="fas" >}} Download my
