@@ -48,9 +48,6 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=thAB-qQAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/mh-ha
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/myounghoon-ha-764897187/
