@@ -20,7 +20,7 @@ bio: My research focuses on neuroscience-inspired AI, with particular emphasis o
 interests:
   - Predictive Coding and Iterative Inference
   - Temporal Sequence Modeling
-  - Neural and Behavioral Latent-State Modeling
+  - Neural and Behavioral Modeling
   - Neuroscience-inspired AI
   - Interpretable Learning
 
