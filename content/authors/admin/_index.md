@@ -27,10 +27,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Electrical Engineering and Computer Science
+    - course: Ph.D. in Electrical Engineering and Computer Science
       institution: Seoul National University
       year: 2019
-    - course: BSc in Information and Computer Science (Minor in Mathematics, summa cum laude)
+    - course: B.S. in Information and Computer Science (Minor in Mathematics, summa cum laude)
       institution: Ajou University
       year: 2010
 
@@ -65,6 +65,6 @@ email: 'mh.ha.soar@gmail.com'
 highlight_name: true
 ---
 
-Myoung Hoon Ha is a postdoctoral researcher at the Center for Neuroscience-inspired AI (CNAI) at KAIST, working with Prof. Sang Wan Lee. His research focuses on neuroscience-inspired AI, with particular emphasis on predictive coding, iterative inference, and stable learning in deep architectures. His recent work includes Meta-PCN (ICLR 2026), which analyzes and stabilizes failure modes in deep predictive coding networks, and Engram Memory Network (IJCNN 2026), a brain-inspired prototype-based explanation model for image classification. More broadly, he works on temporal sequence modeling, neural and behavioral latent-state modeling, and interpretable learning.
+Myoung Hoon Ha is a postdoctoral researcher at the Center for Neuroscience-inspired Artificial Intelligence (CNAI) at KAIST, working with Prof. Sang Wan Lee. His research focuses on neuroscience-inspired AI, with particular emphasis on predictive coding, iterative inference, and stable learning in deep architectures. His recent work includes Meta-PCN (ICLR 2026), which analyzes and stabilizes failure modes in deep predictive coding networks, and Engram Memory Network (IJCNN 2026), a brain-inspired prototype-based explanation model for image classification. More broadly, he works on temporal sequence modeling, neural and behavioral latent-state modeling, and interpretable learning.
 
 {{< icon name="download" pack="fas" >}} Download CV
