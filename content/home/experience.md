@@ -40,9 +40,8 @@ experience:
     date_start: '2011-05-16'
     date_end: '2019-11-15'
     description: |2-
-        * Worked as a part-time worker (2011-2013) and a full-time worker (2014-2019) at the investment company owned by my adviser while doing my Ph.D.
-        * Conducted research on investment strategies (stock pattern search and portfolio optimization) based on technical analysis and evolutionary reinforcement learning.
-        * Managed private equity funds and developed auto-trading programs.
+        * Applied evolutionary algorithms and reinforcement learning to develop quantitative trading strategies, leading to publications on pattern discovery, feature learning, and portfolio optimization.
+        * Built and operated algorithmic trading systems for a discretionary fund, translating research on pattern recognition and optimization into deployable financial software.
 
   - title: Software Engineer
     company: Pantech
@@ -52,7 +51,7 @@ experience:
     date_start: '2010-01-01'
     date_end: '2010-12-31'
     description: |2-
-         * Developed home applications and widgets for the android smartphones made by Pantech which was the 3rd biggest smartphone manufacturer in Korea at the moment.
+        * Developed home-screen applications and widgets for Android smartphones.
 
 design:
   columns: '2'

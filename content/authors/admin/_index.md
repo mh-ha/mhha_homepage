@@ -20,11 +20,11 @@ bio: My research focuses on building neuroscience-inspired AI models that learn 
 
 # Interests to show in About widget
 interests:
-  - Predictive Coding
+  - Predictive Coding and Iterative Inference
   - Temporal Sequence Modeling
-  - Neuroscience-inspired AI
   - Neural and Behavioral Modeling
-  - Interpretability
+  - Neuroscience-inspired AI
+  - Interpretable Learning
 
 # Education to show in About widget
 education:
@@ -70,6 +70,6 @@ email: 'mh.ha.soar@gmail.com'
 highlight_name: true
 ---
 
-Myounghoon Ha is a postdoctoral researcher at the Center for Neuroscience-inspired Artificial Intelligence (CNAI) at KAIST, working with Prof. Sang Wan Lee. His research focuses on building neuroscience-inspired AI models that learn and adapt like biological neural circuits. His recent work on Meta-PCN (ICLR 2026) addresses training pathologies in deep predictive coding networks through meta-prediction-error objectives. He also works on temporal sequence modeling, neural and behavioral modeling, and interpretability.
+Myounghoon Ha is a postdoctoral researcher at the Center for Neuroscience-inspired Artificial Intelligence (CNAI) at KAIST, working with Prof. Sang Wan Lee. His research focuses on building neuroscience-inspired AI models that learn and adapt like biological neural circuits. His recent work includes Meta-PCN (ICLR 2026), which addresses training pathologies in deep predictive coding networks through meta-prediction-error objectives, and Engram Memory Network (IJCNN 2026), a brain-inspired prototype explanation method. He also works on temporal sequence modeling, neural and behavioral modeling, and interpretable learning.
 
 {{< icon name="download" pack="fas" >}} Download my

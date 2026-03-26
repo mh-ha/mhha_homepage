@@ -26,8 +26,16 @@ feature:
     icon: brain
     icon_pack: fas
     name: ML/DL Frameworks
-  - description: Git, LaTeX, Linux/Unix, SLURM
+  - description: Deep Learning, Reinforcement Learning, Evolutionary Computation, Computer Vision, NLP, Representation Learning, Neuroscience-inspired AI
+    icon: flask
+    icon_pack: fas
+    name: Research Areas
+  - description: Git, LaTeX, Linux/Unix, SLURM (HPC)
     icon: tools
     icon_pack: fas
     name: Tools
+  - description: Korean (Native), English (Professional)
+    icon: language
+    icon_pack: fas
+    name: Languages
 ---
