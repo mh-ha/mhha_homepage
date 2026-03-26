@@ -67,4 +67,4 @@ highlight_name: true
 
 Myoung Hoon Ha is a postdoctoral researcher at the Center for Neuroscience-inspired Artificial Intelligence (CNAI) at KAIST, working with Prof. Sang Wan Lee. His research focuses on neuroscience-inspired AI, with particular emphasis on predictive coding, iterative inference, and stable learning in deep architectures. His recent work includes Meta-PCN (ICLR 2026), which analyzes and stabilizes failure modes in deep predictive coding networks, and Engram Memory Network (IJCNN 2026), a brain-inspired prototype-based explanation model for image classification. More broadly, he works on temporal sequence modeling, neural and behavioral latent-state modeling, and interpretable learning.
 
-{{< icon name="download" pack="fas" >}} Download CV
+{{< icon name="download" pack="fas" >}} [Download CV](uploads/CV_mhha.pdf)
