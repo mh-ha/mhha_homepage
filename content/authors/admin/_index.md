@@ -10,19 +10,17 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Center for Neuroscience-inspired Artificial Intelligence (CNAI)
+  - name: Center for Neuroscience-inspired Artificial Intelligence (CNAI), KAIST
     url: https://cnai.kaist.ac.kr/
-  - name: Korea Advanced Institute of Science and Technology (KAIST)
-    url: https://www.kaist.ac.kr/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on building neuroscience-inspired AI models that learn and adapt like biological neural circuits, with a current emphasis on deep predictive coding networks and temporal sequence modeling.
+bio: My research focuses on neuroscience-inspired AI, with particular emphasis on predictive coding, iterative inference, and stable learning in deep architectures.
 
 # Interests to show in About widget
 interests:
   - Predictive Coding and Iterative Inference
   - Temporal Sequence Modeling
-  - Neural and Behavioral Modeling
+  - Neural and Behavioral Latent-State Modeling
   - Neuroscience-inspired AI
   - Interpretable Learning
 
@@ -70,6 +68,6 @@ email: 'mh.ha.soar@gmail.com'
 highlight_name: true
 ---
 
-Myounghoon Ha is a postdoctoral researcher at the Center for Neuroscience-inspired Artificial Intelligence (CNAI) at KAIST, working with Prof. Sang Wan Lee. His research focuses on building neuroscience-inspired AI models that learn and adapt like biological neural circuits. His recent work includes Meta-PCN (ICLR 2026), which addresses training pathologies in deep predictive coding networks through meta-prediction-error objectives, and Engram Memory Network (IJCNN 2026), a brain-inspired prototype explanation method. He also works on temporal sequence modeling, neural and behavioral modeling, and interpretable learning.
+Myoung Hoon Ha is a postdoctoral researcher at the Center for Neuroscience-inspired AI (CNAI) at KAIST, working with Prof. Sang Wan Lee. His research focuses on neuroscience-inspired AI, with particular emphasis on predictive coding, iterative inference, and stable learning in deep architectures. His recent work includes Meta-PCN (ICLR 2026), which analyzes and stabilizes failure modes in deep predictive coding networks, and Engram Memory Network (IJCNN 2026), a brain-inspired prototype-based explanation model for image classification. More broadly, he works on temporal sequence modeling, neural and behavioral latent-state modeling, and interpretable learning.
 
-{{< icon name="download" pack="fas" >}} Download my
+{{< icon name="download" pack="fas" >}} Download CV
