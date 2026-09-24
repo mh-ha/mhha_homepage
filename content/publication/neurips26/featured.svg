@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Proxy-based interventional reward response</title>
+  <desc id="desc">Conceptual flow from partially observed agent histories and proxy variables through an outcome bridge to an interventional reward response and decentralized policy learning.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1565c0"/></marker>
+    <style>
+      .box{fill:#f4f8fc;stroke:#1565c0;stroke-width:3;rx:18}
+      .latent{fill:#fff7e6;stroke:#d9822b;stroke-width:3;stroke-dasharray:9 7;rx:18}
+      .out{fill:#edf7ed;stroke:#2e7d32;stroke-width:3;rx:18}
+      .t{font:26px Arial,sans-serif;fill:#17324d;text-anchor:middle}
+      .s{font:21px Arial,sans-serif;fill:#17324d;text-anchor:middle}
+      .a{stroke:#1565c0;stroke-width:4;fill:none;marker-end:url(#arrow)}
+      .d{stroke:#d9822b;stroke-width:3;stroke-dasharray:9 7;fill:none;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect width="1200" height="650" fill="#ffffff"/>
+  <text x="600" y="52" class="t" font-weight="bold">Interventional reward response for cooperative MARL</text>
+  <rect x="55" y="180" width="245" height="155" class="box"/>
+  <text x="177" y="230" class="t">Observed inputs</text>
+  <text x="177" y="270" class="s">Local history Oᶦₜ</text>
+  <text x="177" y="302" class="s">Other-agent proxies Wₜ</text>
+  <rect x="55" y="420" width="245" height="115" class="latent"/>
+  <text x="177" y="468" class="t">Latent state</text>
+  <text x="177" y="503" class="s">Sₜ (unobserved)</text>
+  <rect x="410" y="180" width="280" height="155" class="box"/>
+  <text x="550" y="230" class="t">Outcome bridge</text>
+  <text x="550" y="270" class="s">h(·) learned from</text>
+  <text x="550" y="302" class="s">proxy moment restrictions</text>
+  <rect x="805" y="180" width="330" height="155" class="out"/>
+  <text x="970" y="230" class="t">Interventional response</text>
+  <text x="970" y="270" class="s">r̄ᶦₜ = E[Rₜ | do(Aᶦₜ=a)]</text>
+  <text x="970" y="302" class="s">agent-level credit signal</text>
+  <rect x="805" y="420" width="330" height="115" class="box"/>
+  <text x="970" y="468" class="t">Decentralized policy</text>
+  <text x="970" y="503" class="s">IPPO / MAPPO backbone</text>
+  <path d="M300 258 H410" class="a"/>
+  <path d="M690 258 H805" class="a"/>
+  <path d="M970 335 V420" class="a"/>
+  <path d="M300 478 C390 400 400 350 475 335" class="d"/>
+  <text x="388" y="431" class="s" fill="#a35a13">confounding handled by proxies</text>
+</svg>

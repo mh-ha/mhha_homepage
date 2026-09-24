@@ -16,7 +16,7 @@ publication_types: ['1']
 publication: "Advances in Neural Information Processing Systems (NeurIPS)"
 publication_short: "NeurIPS 2026 (accepted)"
 
-abstract: ''
+abstract: "Credit assignment in cooperative multi-agent reinforcement learning is difficult under partial observability and latent confounding. We propose a proxy-based causal identification framework that estimates each agent's interventional reward response from observable histories and proxy variables, without requiring direct access to the latent state. An outcome bridge is learned from conditional moment restrictions and transformed into an agent-level credit signal for policy optimization. The resulting approach can be combined with decentralized policy backbones, including IPPO and MAPPO, while using centralized information only for bridge estimation during training. Experiments across cooperative benchmarks, including Stag-Hunt, SMAC, and Level-Based Foraging, show that the proposed credit signal improves policy learning and is competitive with established multi-agent baselines, including QMIX."
 
 summary: "Advances in Neural Information Processing Systems (NeurIPS), 2026 (accepted)"
 
@@ -34,7 +34,7 @@ url_source: 'https://openreview.net/forum?id=FOmIe6PtvT'
 url_video: ''
 
 image:
-  caption: ''
+  caption: 'Conceptual overview of proxy-based interventional reward response.'
   focal_point: ''
   preview_only: false
 
