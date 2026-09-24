@@ -33,11 +33,6 @@ url_slides: ''
 url_source: 'https://openreview.net/forum?id=FOmIe6PtvT'
 url_video: ''
 
-image:
-  caption: 'Conceptual overview of proxy-based interventional reward response.'
-  focal_point: ''
-  preview_only: false
-
 projects: []
 
 slides: ''
