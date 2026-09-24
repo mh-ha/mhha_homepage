@@ -16,7 +16,7 @@ publication_types: ['1']
 publication: "Advances in Neural Information Processing Systems (NeurIPS)"
 publication_short: "NeurIPS 2026 (accepted)"
 
-abstract: "Credit assignment in cooperative multi-agent reinforcement learning is difficult under partial observability and latent confounding. We propose a proxy-based causal identification framework that estimates each agent's interventional reward response from observable histories and proxy variables, without requiring direct access to the latent state. An outcome bridge is learned from conditional moment restrictions and transformed into an agent-level credit signal for policy optimization. The resulting approach can be combined with decentralized policy backbones, including IPPO and MAPPO, while using centralized information only for bridge estimation during training. Experiments across cooperative benchmarks, including Stag-Hunt, SMAC, and Level-Based Foraging, show that the proposed credit signal improves policy learning and is competitive with established multi-agent baselines, including QMIX."
+abstract: "Credit assignment remains a central challenge in cooperative multi-agent reinforcement learning (MARL), especially under partial observability, where individual policy updates may not accurately reflect each agent’s actual contribution to team outcomes. While policy-based methods such as MAPPO and IPPO provide strong optimization frameworks, their updates are typically derived from global rewards and observational value surrogates, without explicitly defining agent-specific credit. Misaligned credit signals can mislead individual policy improvement, resulting in inefficient coordination and weaker team performance. We address this challenge by formulating agent-level credit as an interventional reward response, using Proximal Causal Inference (PCI) to identify credit from observable proxies via an outcome bridge function. Building on this identification strategy, we design a practical credit-aligned update signal and integrate it into policy gradient methods. Empirical evaluations on diagnostic and benchmark tasks demonstrate that the proposed credit signal improves policy learning under partial observability, highlighting proximal identification as a promising foundation for designing credit-aware policy updates in cooperative MARL. To the best of our knowledge, this work presents the first PCI-based solution for online multi-agent cooperation."
 
 summary: "Advances in Neural Information Processing Systems (NeurIPS), 2026 (accepted)"
 
@@ -32,6 +32,11 @@ url_project: ''
 url_slides: ''
 url_source: 'https://openreview.net/forum?id=FOmIe6PtvT'
 url_video: ''
+
+image:
+  caption: 'Figure 1: Causal graph of a Dec-POMDP.'
+  focal_point: 'Center'
+  preview_only: false
 
 projects: []
 
